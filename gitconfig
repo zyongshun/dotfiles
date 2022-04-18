@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = zyongshun.ys@gmail.com
+	name = zheng yongshun
